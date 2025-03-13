@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BookLibrary_GroupB_Odd.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BookLibrary_GroupB_Odd.props" />
+</Project>
