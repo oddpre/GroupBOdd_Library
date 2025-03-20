@@ -1,28 +1,28 @@
 {
   "Version": 1,
-  "Hash": "Vg6AWnhTKdfT4JOOTMaet7pFaBWhmoNqRL0b1D15FoY=",
-  "Source": "BookLibrary_GroupB_Odd",
-  "BasePath": "_content/BookLibrary_GroupB_Odd",
+  "Hash": "Lyv1DGnLjt24zNJOLKLh0iOsKCFgJI5uK9ojqgq+zDE=",
+  "Source": "BookLibrarySystemB",
+  "BasePath": "_content/BookLibrarySystemB",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "BookLibrary_GroupB_Odd\\wwwroot",
-      "Source": "BookLibrary_GroupB_Odd",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "Name": "BookLibrarySystemB\\wwwroot",
+      "Source": "BookLibrarySystemB",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookLibrary_GroupB_Odd.styles.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookLibrarySystemB.styles.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
-      "RelativePath": "BookLibrary_GroupB_Odd#[.{fingerprint}]?.styles.css",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BookLibrarySystemB",
+      "RelativePath": "BookLibrarySystemB#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -31,19 +31,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "2oqxbayvwh",
-      "Integrity": "QjhqY0l2vq1vENgqu0HJv7Oy+xeI5U0Ldqw9pG1dPp0=",
+      "Fingerprint": "2nm5b733ie",
+      "Integrity": "Iqc14KIg3tqcC5zMfaxsR9aH1mf8GIxUC8qwmYvAQ9Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookLibrary_GroupB_Odd.styles.css"
+      "OriginalItemSpec": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookLibrarySystemB.styles.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookLibrary_GroupB_Odd.bundle.scp.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookLibrarySystemB.bundle.scp.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
-      "RelativePath": "BookLibrary_GroupB_Odd#[.{fingerprint}]!.bundle.scp.css",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BookLibrarySystemB",
+      "RelativePath": "BookLibrarySystemB#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -52,18 +52,18 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "2oqxbayvwh",
-      "Integrity": "QjhqY0l2vq1vENgqu0HJv7Oy+xeI5U0Ldqw9pG1dPp0=",
+      "Fingerprint": "2nm5b733ie",
+      "Integrity": "Iqc14KIg3tqcC5zMfaxsR9aH1mf8GIxUC8qwmYvAQ9Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookLibrary_GroupB_Odd.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookLibrarySystemB.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\css\\site.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\css\\site.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -80,11 +80,11 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\favicon.ico",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\favicon.ico",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -101,11 +101,11 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\js\\site.js",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\js\\site.js",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -122,11 +122,11 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -143,11 +143,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -164,11 +164,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -185,11 +185,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -206,11 +206,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -227,11 +227,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -248,11 +248,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -269,11 +269,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -290,11 +290,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -311,11 +311,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -332,11 +332,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -353,11 +353,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -374,11 +374,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -395,11 +395,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -416,11 +416,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -437,11 +437,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -458,11 +458,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -479,11 +479,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -500,11 +500,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -521,11 +521,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -542,11 +542,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -563,11 +563,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -584,11 +584,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -605,11 +605,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -626,11 +626,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -647,11 +647,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -668,11 +668,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -689,11 +689,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -710,11 +710,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -731,11 +731,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -752,11 +752,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -773,11 +773,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -794,11 +794,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -815,11 +815,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -836,11 +836,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -857,11 +857,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -878,11 +878,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -899,11 +899,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -920,11 +920,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -941,11 +941,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -962,11 +962,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -983,11 +983,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1004,11 +1004,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1025,11 +1025,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1046,11 +1046,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1067,11 +1067,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1088,11 +1088,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1109,11 +1109,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1130,11 +1130,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1151,11 +1151,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1172,11 +1172,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1193,11 +1193,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1214,11 +1214,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1235,11 +1235,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1256,11 +1256,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1277,11 +1277,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1298,11 +1298,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "BookLibrary_GroupB_Odd",
+      "Identity": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "BookLibrarySystemB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\",
-      "BasePath": "_content/BookLibrary_GroupB_Odd",
+      "ContentRoot": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\",
+      "BasePath": "_content/BookLibrarySystemB",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1321,8 +1321,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "BookLibrary_GroupB_Odd.2oqxbayvwh.bundle.scp.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookLibrary_GroupB_Odd.bundle.scp.css",
+      "Route": "BookLibrarySystemB.2nm5b733ie.bundle.scp.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookLibrarySystemB.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1331,7 +1331,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1140"
+          "Value": "1136"
         },
         {
           "Name": "Content-Type",
@@ -1339,11 +1339,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QjhqY0l2vq1vENgqu0HJv7Oy+xeI5U0Ldqw9pG1dPp0=\""
+          "Value": "\"Iqc14KIg3tqcC5zMfaxsR9aH1mf8GIxUC8qwmYvAQ9Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 12:58:33 GMT"
+          "Value": "Thu, 13 Mar 2025 21:09:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1353,21 +1353,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2oqxbayvwh"
+          "Value": "2nm5b733ie"
         },
         {
           "Name": "label",
-          "Value": "BookLibrary_GroupB_Odd.bundle.scp.css"
+          "Value": "BookLibrarySystemB.bundle.scp.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QjhqY0l2vq1vENgqu0HJv7Oy+xeI5U0Ldqw9pG1dPp0="
+          "Value": "sha256-Iqc14KIg3tqcC5zMfaxsR9aH1mf8GIxUC8qwmYvAQ9Q="
         }
       ]
     },
     {
-      "Route": "BookLibrary_GroupB_Odd.2oqxbayvwh.styles.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookLibrary_GroupB_Odd.styles.css",
+      "Route": "BookLibrarySystemB.2nm5b733ie.styles.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookLibrarySystemB.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1376,7 +1376,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1140"
+          "Value": "1136"
         },
         {
           "Name": "Content-Type",
@@ -1384,11 +1384,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QjhqY0l2vq1vENgqu0HJv7Oy+xeI5U0Ldqw9pG1dPp0=\""
+          "Value": "\"Iqc14KIg3tqcC5zMfaxsR9aH1mf8GIxUC8qwmYvAQ9Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 12:58:33 GMT"
+          "Value": "Thu, 13 Mar 2025 21:09:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1398,21 +1398,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2oqxbayvwh"
+          "Value": "2nm5b733ie"
         },
         {
           "Name": "label",
-          "Value": "BookLibrary_GroupB_Odd.styles.css"
+          "Value": "BookLibrarySystemB.styles.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QjhqY0l2vq1vENgqu0HJv7Oy+xeI5U0Ldqw9pG1dPp0="
+          "Value": "sha256-Iqc14KIg3tqcC5zMfaxsR9aH1mf8GIxUC8qwmYvAQ9Q="
         }
       ]
     },
     {
-      "Route": "BookLibrary_GroupB_Odd.bundle.scp.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookLibrary_GroupB_Odd.bundle.scp.css",
+      "Route": "BookLibrarySystemB.bundle.scp.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookLibrarySystemB.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1421,7 +1421,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1140"
+          "Value": "1136"
         },
         {
           "Name": "Content-Type",
@@ -1429,11 +1429,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QjhqY0l2vq1vENgqu0HJv7Oy+xeI5U0Ldqw9pG1dPp0=\""
+          "Value": "\"Iqc14KIg3tqcC5zMfaxsR9aH1mf8GIxUC8qwmYvAQ9Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 12:58:33 GMT"
+          "Value": "Thu, 13 Mar 2025 21:09:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1443,13 +1443,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QjhqY0l2vq1vENgqu0HJv7Oy+xeI5U0Ldqw9pG1dPp0="
+          "Value": "sha256-Iqc14KIg3tqcC5zMfaxsR9aH1mf8GIxUC8qwmYvAQ9Q="
         }
       ]
     },
     {
-      "Route": "BookLibrary_GroupB_Odd.styles.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookLibrary_GroupB_Odd.styles.css",
+      "Route": "BookLibrarySystemB.styles.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookLibrarySystemB.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1458,7 +1458,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1140"
+          "Value": "1136"
         },
         {
           "Name": "Content-Type",
@@ -1466,11 +1466,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QjhqY0l2vq1vENgqu0HJv7Oy+xeI5U0Ldqw9pG1dPp0=\""
+          "Value": "\"Iqc14KIg3tqcC5zMfaxsR9aH1mf8GIxUC8qwmYvAQ9Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 12:58:33 GMT"
+          "Value": "Thu, 13 Mar 2025 21:09:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1480,13 +1480,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QjhqY0l2vq1vENgqu0HJv7Oy+xeI5U0Ldqw9pG1dPp0="
+          "Value": "sha256-Iqc14KIg3tqcC5zMfaxsR9aH1mf8GIxUC8qwmYvAQ9Q="
         }
       ]
     },
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1507,7 +1507,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1531,7 +1531,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1552,7 +1552,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1568,7 +1568,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1589,7 +1589,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1613,7 +1613,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1634,7 +1634,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1650,7 +1650,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1671,7 +1671,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1687,7 +1687,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1708,7 +1708,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1732,7 +1732,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1753,7 +1753,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1769,7 +1769,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1790,7 +1790,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1814,7 +1814,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1835,7 +1835,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1851,7 +1851,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1872,7 +1872,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1896,7 +1896,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1917,7 +1917,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1933,7 +1933,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1954,7 +1954,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1978,7 +1978,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1999,7 +1999,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2015,7 +2015,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2036,7 +2036,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2060,7 +2060,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2081,7 +2081,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2097,7 +2097,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2118,7 +2118,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2142,7 +2142,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2163,7 +2163,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2179,7 +2179,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2200,7 +2200,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2224,7 +2224,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2245,7 +2245,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2261,7 +2261,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2282,7 +2282,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2306,7 +2306,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2327,7 +2327,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2343,7 +2343,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2364,7 +2364,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2388,7 +2388,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2409,7 +2409,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2433,7 +2433,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2454,7 +2454,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2470,7 +2470,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2491,7 +2491,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2507,7 +2507,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2528,7 +2528,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2552,7 +2552,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2573,7 +2573,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2589,7 +2589,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2610,7 +2610,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2634,7 +2634,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2655,7 +2655,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2671,7 +2671,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2692,7 +2692,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2716,7 +2716,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2737,7 +2737,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2753,7 +2753,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2774,7 +2774,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2798,7 +2798,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2819,7 +2819,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2835,7 +2835,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2856,7 +2856,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2872,7 +2872,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2893,7 +2893,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2909,7 +2909,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2930,7 +2930,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2954,7 +2954,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2975,7 +2975,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2999,7 +2999,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3020,7 +3020,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3044,7 +3044,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3065,7 +3065,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3089,7 +3089,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3110,7 +3110,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3126,7 +3126,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3147,7 +3147,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3171,7 +3171,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3192,7 +3192,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3208,7 +3208,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3229,7 +3229,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3245,7 +3245,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3266,7 +3266,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3282,7 +3282,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3303,7 +3303,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3327,7 +3327,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3348,7 +3348,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3372,7 +3372,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3393,7 +3393,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3417,7 +3417,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3438,7 +3438,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3454,7 +3454,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3475,7 +3475,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3499,7 +3499,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3520,7 +3520,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3536,7 +3536,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3557,7 +3557,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3573,7 +3573,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3594,7 +3594,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3610,7 +3610,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3631,7 +3631,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3655,7 +3655,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3676,7 +3676,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3700,7 +3700,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3721,7 +3721,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3737,7 +3737,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3758,7 +3758,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3782,7 +3782,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3803,7 +3803,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3819,7 +3819,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3840,7 +3840,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3864,7 +3864,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3885,7 +3885,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3901,7 +3901,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3922,7 +3922,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3938,7 +3938,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3959,7 +3959,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3983,7 +3983,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4004,7 +4004,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4028,7 +4028,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4049,7 +4049,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4065,7 +4065,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4086,7 +4086,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4110,7 +4110,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4131,7 +4131,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4147,7 +4147,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4168,7 +4168,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4184,7 +4184,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4205,7 +4205,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4229,7 +4229,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4250,7 +4250,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4266,7 +4266,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4287,7 +4287,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4311,7 +4311,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4332,7 +4332,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4356,7 +4356,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4377,7 +4377,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4393,7 +4393,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4414,7 +4414,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4438,7 +4438,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4459,7 +4459,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4475,7 +4475,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4496,7 +4496,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4520,7 +4520,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4541,7 +4541,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4565,7 +4565,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4586,7 +4586,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4602,7 +4602,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4623,7 +4623,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4647,7 +4647,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4668,7 +4668,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4684,7 +4684,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4705,7 +4705,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4721,7 +4721,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4742,7 +4742,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4766,7 +4766,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4787,7 +4787,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4803,7 +4803,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4824,7 +4824,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4848,7 +4848,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4869,7 +4869,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4885,7 +4885,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4906,7 +4906,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4922,7 +4922,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4943,7 +4943,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4967,7 +4967,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4988,7 +4988,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5012,7 +5012,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5033,7 +5033,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5049,7 +5049,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5070,7 +5070,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5094,7 +5094,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5115,7 +5115,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5131,7 +5131,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5152,7 +5152,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5168,7 +5168,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5189,7 +5189,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5205,7 +5205,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5226,7 +5226,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5250,7 +5250,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5271,7 +5271,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5295,7 +5295,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5316,7 +5316,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5340,7 +5340,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5361,7 +5361,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5377,7 +5377,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5398,7 +5398,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5422,7 +5422,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5443,7 +5443,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5467,7 +5467,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5488,7 +5488,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5504,7 +5504,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5525,7 +5525,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5549,7 +5549,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5570,7 +5570,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5594,7 +5594,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5615,7 +5615,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5631,7 +5631,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5652,7 +5652,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5668,7 +5668,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5689,7 +5689,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5713,7 +5713,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5734,7 +5734,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5750,7 +5750,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5771,7 +5771,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5795,7 +5795,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5816,7 +5816,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5832,7 +5832,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5853,7 +5853,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5877,7 +5877,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5898,7 +5898,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5914,7 +5914,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5935,7 +5935,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5951,7 +5951,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5972,7 +5972,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5996,7 +5996,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6017,7 +6017,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6033,7 +6033,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6054,7 +6054,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6078,7 +6078,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6099,7 +6099,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6115,7 +6115,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6136,7 +6136,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6160,7 +6160,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6181,7 +6181,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6205,7 +6205,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6226,7 +6226,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6242,7 +6242,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6263,7 +6263,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6287,7 +6287,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6308,7 +6308,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6324,7 +6324,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6345,7 +6345,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6369,7 +6369,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\oddy-\\source\\repos\\BookLibrary_GroupB_Odd\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\oddy-\\Desktop\\BookLibrarySystemB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6390,7 +6390,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:58:14 GMT"
+          "Value": "Thu, 13 Mar 2025 20:48:00 GMT"
         },
         {
           "Name": "Cache-Control",
